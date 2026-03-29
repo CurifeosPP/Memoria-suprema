@@ -1,0 +1,36 @@
+{
+  "games": [
+    {
+      "id": "curiluchas",
+      "title": "CuriLuchas",
+      "developer": "Tu Estudio",
+      "description": "Descripción de tu juego.",
+      "logo":       "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/logos/ARCHIVO.png",
+      "background": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/fondos/ARCHIVO.jpg",
+      "requirements": {
+        "os":      "Windows 10 / Ubuntu 20.04+",
+        "cpu":     "Intel i5 / Ryzen 5",
+        "ram":     "4 GB",
+        "gpu":     "Integrada / GTX 750",
+        "storage": "500 MB",
+        "directx": "DirectX 11"
+      },
+      "versions": [
+        {
+          "label":   "v1.0.0 — Estable",
+          "version": "1.0.0",
+          "size_gb": 0.5,
+          "download_urls": {
+            "windows": "https://github.com/TU_USUARIO/TU_REPO/releases/download/v1.0.0/CuriLuchas_1.0.0_windows.zip",
+            "linux":   "https://github.com/TU_USUARIO/TU_REPO/releases/download/v1.0.0/CuriLuchas_1.0.0_linux.zip"
+          },
+          "install_subdir": "CuriLuchas_1.0.0",
+          "executable": {
+            "windows": "CuriLuchas.exe",
+            "linux":   "CuriLuchas.x86_64"
+          }
+        }
+      ]
+    }
+  ]
+}
