@@ -3,26 +3,26 @@
     {
       "id": "curiluchas",
       "title": "CuriLuchas",
-      "developer": "Tu Estudio",
-      "description": "Descripción de tu juego.",
-      "logo":       "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/logos/ARCHIVO.png",
-      "background": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/fondos/ARCHIVO.jpg",
+      "developer": "CurifeosPP",
+      "description": "El prototipo de curiLuchas",
+      "logo":       "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/logos/Curi%20luchas%20logo%20temporal.png",
+      "background": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/fondos/Curi%20luchas.jpeg",
       "requirements": {
-        "os":      "Windows 10 / Ubuntu 20.04+",
-        "cpu":     "Intel i5 / Ryzen 5",
-        "ram":     "4 GB",
-        "gpu":     "Integrada / GTX 750",
-        "storage": "500 MB",
+        "os":      "Windows 10 / Linux",
+        "cpu":     "Cualquiera",
+        "ram":     "1 GB",
+        "gpu":     "Integrada",
+        "storage": "100 MB",
         "directx": "DirectX 11"
       },
       "versions": [
         {
           "label":   "v1.0.0 — Estable",
           "version": "1.0.0",
-          "size_gb": 0.5,
+          "size_gb": 0.1,
           "download_urls": {
-            "windows": "https://github.com/TU_USUARIO/TU_REPO/releases/download/v1.0.0/CuriLuchas_1.0.0_windows.zip",
-            "linux":   "https://github.com/TU_USUARIO/TU_REPO/releases/download/v1.0.0/CuriLuchas_1.0.0_linux.zip"
+            "windows": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0.0/CuriLuchas_1.0.0_windows.zip",
+            "linux":   "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0.0/CuriLuchas_1.0.0_Linux.zip"
           },
           "install_subdir": "CuriLuchas_1.0.0",
           "executable": {
