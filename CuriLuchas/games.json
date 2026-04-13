@@ -2,7 +2,7 @@
   "id": "CuriLuchas",
   "versions": [
     {
-      "label": "Prototipo 0.2",
+      "label": "1.0.1 - Prototipo",
       "version": "1.0.1",
       "size_gb": 0.1,
       "download_urls": {
@@ -16,7 +16,7 @@
       }
     },
     {
-      "label": "Prototipo 0.1",
+      "label": "1.0.0 - Prototipo",
       "version": "1.0.0",
       "size_gb": 0.1,
       "download_urls": {
