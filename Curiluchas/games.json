@@ -1,32 +1,18 @@
 {
-  "id": "curiluchas",
-  "title": "Curiluchas (prototipo)",
-  "developer": "TU_NOMBRE",
-  "description": "Curiluchas, el siguente juego a desarrollar del intelectual depronai.",
-  "logo": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/Curiluchas/logo.png",
-  "background": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/Curiluchas/background.jpeg",
-  "music": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/curiluchas/music.ogg",
-  "requirements": {
-    "os": "Windows 10/ linux",
-    "cpu": "Cualquiera",
-    "ram": "500 mb",
-    "gpu": "Integrada",
-    "storage": "100 MB",
-    "directx": "DirectX 11"
-  },
+  "id": "CuriLuchas",
   "versions": [
     {
-      "label": "v1.0.0 — Prototipo",
+      "label": "Prototipo",
       "version": "1.0.0",
-      "size_gb": 0.5,
+      "size_gb": 0.1,
       "download_urls": {
-            "windows": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0.0/CuriLuchas_1.0.0_windows.zip",
-            "linux":   "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0.0/CuriLuchas_1.0.0_Linux.zip"
+        "windows": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0.0/CuriLuchas_1.0.0_windows.zip",
+        "linux":   "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0.0/CuriLuchas_1.0.0_Linux.zip"
       },
-      "install_subdir": "Curiluchas_1.0.0",
+      "install_subdir": "CuriLuchas_1.0.0",
       "executable": {
-        "windows": "Curiluchas.exe",
-        "linux":   "Curiluchas.x86_64"
+        "windows": "Curi-Luchas PROTOTIPO.exe",
+        "linux":   "Curi-Luchas PROTOTIPO.x86_64"
       }
     }
   ]
