@@ -6,8 +6,8 @@
       "developer": "CurifeosPP",
       "description": "El juego que desarrollare despues y da la casualidad que le hice un prototipo.",
       "logo": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/main/CuriLuchas/logo.png",
-      "background": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/Curiluchas/background.jpeg",
-      "music": "https://github.com/CurifeosPP/Memoria-suprema/raw/refs/heads/main/Curiluchas/music.mp3",
+      "background": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/background.jpeg",
+      "music": "https://github.com/CurifeosPP/Memoria-suprema/raw/refs/heads/main/CuriLuchas/music.mp3",
       "requirements": {
         "os": "Windows 10 / Linux",
         "cpu": "Cualquiera",
