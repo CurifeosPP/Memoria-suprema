@@ -5,16 +5,17 @@
       "title": "CuriLuchas",
       "developer": "CurifeosPP",
       "description": "El juego que desarrollare despues y da la casualidad que le hice un prototipo.",
-      "logo": "https://raw.githubusercontent.com/TU_USUARIO/mi-catalogo-juegos/main/the_sword/logo.png",
-      "background": "https://raw.githubusercontent.com/TU_USUARIO/mi-catalogo-juegos/main/the_sword/background.jpg",
-      "music": "https://raw.githubusercontent.com/TU_USUARIO/mi-catalogo-juegos/main/the_sword/music.ogg",
+      "logo": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/main/CuriLuchas/logo.png",
+      "background": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/Curiluchas/logo.png",
+      "music": "https://github.com/CurifeosPP/Memoria-suprema/raw/refs/heads/main/Curiluchas/music.mp3",
       "requirements": {
         "os": "Windows 10 / Linux",
         "cpu": "Cualquiera",
         "ram": "1 GB",
         "gpu": "Integrada",
-        "storage": "100 Mb",
+        "storage": "100 MB",
         "directx": "DirectX 11"
       }
-    },
+    }
+  ]
 }
