@@ -5,14 +5,17 @@
       "title": "CuriLuchas",
       "developer": "CurifeosPP",
       "description": "El juego que desarrollare despues y da la casualidad que le hice un prototipo.",
-      "logo": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/main/CuriLuchas/logo.png",
+
+      "game_json_url":  "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/main/CuriLuchas/game.json",
+      "media_json_url": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/main/CuriLuchas/media.json",
+      "logo":       "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/main/CuriLuchas/logo.png",
       "background": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/background.jpeg",
-      "music": "https://github.com/CurifeosPP/Memoria-suprema/raw/refs/heads/main/CuriLuchas/music.mp3",
+      "music":      "https://github.com/CurifeosPP/Memoria-suprema/raw/refs/heads/main/CuriLuchas/music.mp3",
       "requirements": {
-        "os": "Windows 10 / Linux",
-        "cpu": "Cualquiera",
-        "ram": "1 GB",
-        "gpu": "Integrada",
+        "os":      "Windows 10 / Linux",
+        "cpu":     "Cualquiera",
+        "ram":     "1 GB",
+        "gpu":     "Integrada",
         "storage": "100 MB",
         "directx": "DirectX 11"
       }
