@@ -1,21 +1,23 @@
 {
-  "cover": "https://raw.githubusercontent.com/USUARIO/REPO/main/curiluchas/cover.jpg",
-  "trailer": "https://www.youtube.com/watch?v=TU_VIDEO_ID",
+  "trailer": "https://www.youtube.com/watch?v=cWbDjarpWCk",
   "screenshots": [
-    "https://raw.githubusercontent.com/USUARIO/REPO/main/curiluchas/screenshots/shot1.jpg",
-    "https://raw.githubusercontent.com/USUARIO/REPO/main/curiluchas/screenshots/shot2.jpg",
-    "https://raw.githubusercontent.com/USUARIO/REPO/main/curiluchas/screenshots/shot3.jpg"
+    "https://raw.githubusercontent.com/TU_USER/TU_REPO/main/CuriLuchas/screenshots/shot_v100.jpg",
+    "https://raw.githubusercontent.com/TU_USER/TU_REPO/main/CuriLuchas/screenshots/shot_v101.jpg"
   ],
   "changelog": [
     {
       "version": "1.0.0",
-      "date": "2025-04-01",
-      "notes": "- Lanzamiento inicial\n- Sistema de combate básico\n- 3 niveles jugables"
+      "date": "2026-02-28",
+      "image": "https://raw.githubusercontent.com/TU_USER/TU_REPO/main/CuriLuchas/changelog/v1.0.0.jpg",
+      "use_last_image": false,
+      "notes": "- Lanzamiento inicial\n- Sistema de combate básico"
     },
     {
-      "version": "1.1.0",
-      "date": "2025-05-15",
-      "notes": "- Corrección de bugs de colisión\n- Nuevo menú principal\n- Soporte para mando"
+      "version": "1.0.1",
+      "date": "2025-04-14",
+      "image": "https://raw.githubusercontent.com/TU_USER/TU_REPO/main/CuriLuchas/changelog/v1.0.1.jpg",
+      "use_last_image": false,
+      "notes": "- Corrección de errores\n- Sistema de logros"
     }
   ]
 }
