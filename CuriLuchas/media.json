@@ -1,21 +1,22 @@
 {
   "trailer": "https://www.youtube.com/watch?v=cWbDjarpWCk",
   "screenshots": [
-    "https://raw.githubusercontent.com/TU_USER/TU_REPO/main/CuriLuchas/screenshots/shot_v100.jpg",
-    "https://raw.githubusercontent.com/TU_USER/TU_REPO/main/CuriLuchas/screenshots/shot_v101.jpg"
+    "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/screenshots/shot1.png",
+    "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/screenshots/shot2.png",
+    "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/screenshots/shot3.png"
   ],
   "changelog": [
     {
       "version": "1.0.0",
       "date": "2026-02-28",
-      "image": "https://raw.githubusercontent.com/TU_USER/TU_REPO/main/CuriLuchas/changelog/v1.0.0.jpg",
+      "image": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/screenshots/shot3.png",
       "use_last_image": false,
       "notes": "- Lanzamiento inicial\n- Sistema de combate básico"
     },
     {
       "version": "1.0.1",
       "date": "2025-04-14",
-      "image": "https://raw.githubusercontent.com/TU_USER/TU_REPO/main/CuriLuchas/changelog/v1.0.1.jpg",
+      "image": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/screenshots/shot2.png",
       "use_last_image": false,
       "notes": "- Corrección de errores\n- Sistema de logros"
     }
