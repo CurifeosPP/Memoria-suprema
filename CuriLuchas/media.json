@@ -1,0 +1,21 @@
+{
+  "cover": "https://raw.githubusercontent.com/USUARIO/REPO/main/curiluchas/cover.jpg",
+  "trailer": "https://www.youtube.com/watch?v=TU_VIDEO_ID",
+  "screenshots": [
+    "https://raw.githubusercontent.com/USUARIO/REPO/main/curiluchas/screenshots/shot1.jpg",
+    "https://raw.githubusercontent.com/USUARIO/REPO/main/curiluchas/screenshots/shot2.jpg",
+    "https://raw.githubusercontent.com/USUARIO/REPO/main/curiluchas/screenshots/shot3.jpg"
+  ],
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2025-04-01",
+      "notes": "- Lanzamiento inicial\n- Sistema de combate básico\n- 3 niveles jugables"
+    },
+    {
+      "version": "1.1.0",
+      "date": "2025-05-15",
+      "notes": "- Corrección de bugs de colisión\n- Nuevo menú principal\n- Soporte para mando"
+    }
+  ]
+}
