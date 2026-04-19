@@ -1,5 +1,9 @@
 {
   "id": "CuriLuchas",
+  "achievements": {
+    "encrypt_key": "CuriLuchasKey2026SecretXD!!!!!!",
+    "salt": "CuriLuchasSalt_v1"
+  },
   "versions": [
     {
       "label": "1.0.0 - Prototipo",
@@ -10,7 +14,10 @@
         "linux":   "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0.0/CuriLuchas_1.0.0_Linux.zip"
       },
       "install_subdir": "CuriLuchas_1.0.0",
-      "executable": { "windows": "Curi-Luchas PROTOTIPO.exe", "linux": "Curi-Luchas PROTOTIPO.x86_64" }
+      "executable": {
+        "windows": "Curi-Luchas PROTOTIPO.exe",
+        "linux":   "Curi-Luchas PROTOTIPO.x86_64"
+      }
     },
     {
       "label": "1.0.1 - Prototipo",
@@ -21,7 +28,10 @@
         "linux":   "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0.1/CuriLuchas_1.0.1_Linux.zip"
       },
       "install_subdir": "CuriLuchas_1.0.1",
-      "executable": { "windows": "Curi-Luchas PROTOTIPO.exe", "linux": "Curi-Luchas PROTOTIPO.x86_64" }
+      "executable": {
+        "windows": "Curi-Luchas PROTOTIPO.exe",
+        "linux":   "Curi-Luchas PROTOTIPO.x86_64"
+      }
     }
   ]
 }
