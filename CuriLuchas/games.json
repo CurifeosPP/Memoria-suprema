@@ -13,7 +13,7 @@
       "download_urls": {
         "windows": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0/CuriLuchas_1.0_windows.zip",
         "linux":   "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0/CuriLuchas_1.0_Linux.zip",
-        "Macos": "si"
+        "Macos": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0/Curi-luchas.PROTOTIPO-MAC.zip"
       },
       "install_subdir": "CuriLuchas_1.0.0",
       "executable": {
