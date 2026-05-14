@@ -12,13 +12,13 @@
       "size_gb": 0.1,
       "download_urls": {
         "windows": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0/CuriLuchas_1.0_windows.zip",
-        "linux":  "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0/CuriLuchas_1.0_Linux.zip",
-        "Macos": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0/Curi-luchas.PROTOTIPO-MAC.zip"
+        "linux": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0/CuriLuchas_1.0_Linux.zip",
+        "macos": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0/Curi-luchas.PROTOTIPO-MAC.zip"
       },
       "install_subdir": "CuriLuchas_1.0",
       "executable": {
         "windows": "Curi-Luchas PROTOTIPO.exe",
-        "linux":   "Curi-Luchas PROTOTIPO.x86_64"
+        "linux": "Curi-Luchas PROTOTIPO.x86_64",
         "macos": "Curi-Luchas PROT"
       }
     }
