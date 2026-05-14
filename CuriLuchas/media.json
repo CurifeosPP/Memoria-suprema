@@ -11,28 +11,7 @@
       "date": "2026-02-28",
       "image": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/screenshots/shot3.png",
       "use_last_image": false,
-      "notes": "- Lanzamiento inicial\n- Sistema de combate básico"
-    },
-    {
-      "version": "1.1",
-      "date": "2026-04-14",
-      "image": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/screenshots/shot2.png",
-      "use_last_image": false,
-      "notes": "- Corrección de errores\n- Sistema de logros"
-    },
-    {
-      "version": "1.2",
-      "date": "2026-04-24",
-      "image": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/screenshots/shot2.png",
-      "use_last_image": false,
-      "notes": "En esta version se añadio: El sistema de tiempo de juego, modo multijugador local y Un menu de pausa hecha a la rapida"
-    },
-    {
-      "version": "1.3",
-      "date": "2026-04-24",
-      "image": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/screenshots/shot3.png",
-      "use_last_image": false,
-      "notes": "Añadi el modo dos jugadores... emmmm, ¿¿¿nada mas???, por que hice que estas versiones estuvieran separadas?, ¿no hubiera sido mejor si esto estuviera incluido en la 1.2?, ¿sabes que?, voy a fusionar las dos versiones y ya, este texto cambiara cuandp de verdad haya una 1.3"
+      "notes": "- Lanzamiento inicial del SwordLauncher junto a la version mas reciente del curiluchas, oh boi, esto ya esta empezando :D"
     }
   ]
 }
