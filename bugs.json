@@ -4,21 +4,21 @@
     "game_id": "curiluchas",
     "title": "🛑 Bug Report — CuriLuchas",
     "desc": "No me deja saltar la cinematica",
-    "status": "resolved",
+    "status": "open",
     "version": "v1.3",
     "os": "Ninguno",
     "date": "2026-05-03",
-    "resolved_at": "2026-05-04T03:14:23.441000+00:00"
+    "resolved_at": ""
   },
   {
     "id": "#0002",
     "game_id": "curiluchas",
     "title": "🛑 Bug Report — CuriLuchas",
-    "desc": "qn sabe :v",
-    "status": "resolved",
+    "desc": "Se congela el juego en la cinematica",
+    "status": "open",
     "version": "v1.0",
     "os": "Ninguno",
     "date": "2026-05-14",
-    "resolved_at": "2026-05-04T03:14:23.441000+00:00"
+    "resolved_at": ""
   }
 ]
