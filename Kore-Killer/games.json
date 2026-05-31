@@ -1,0 +1,25 @@
+{
+  "id": "KoreKiller",
+  "appdata_name": "KoreKiller",
+  "achievements": {
+    "encrypt_key": "KoreKillerKey2026SecretXD!!!!!!",
+    "salt": "KoreKillerSalt_v1"
+  },
+  "versions": [
+    {
+      "label": "1.0 - Prototipo",
+      "version": "1.0",
+      "size_gb": 0.1,
+      "download_urls": {
+        "windows": "PENDIENTE_URL_WINDOWS",
+        "linux":   "PENDIENTE_URL_LINUX",
+        "macos":   "PENDIENTE_URL_MACOS"
+      },
+      "executable": {
+        "windows": "KoreKiller.exe",
+        "linux":   "KoreKiller.x86_64",
+        "macos":   "KoreKiller"
+      }
+    }
+  ]
+}
