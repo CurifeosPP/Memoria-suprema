@@ -8,12 +8,12 @@
   "versions": [
     {
       "label": "1.0 - Prototipo",
-      "version": "1.0",
+      "version": "1",
       "size_gb": 0.1,
       "download_urls": {
-        "windows": "PENDIENTE_URL_WINDOWS",
-        "linux":   "PENDIENTE_URL_LINUX",
-        "macos":   "PENDIENTE_URL_MACOS"
+        "windows": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1/KoreKiller_Windows.zip",
+        "linux":   "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1/KoreKiller_Linux.zip",
+        "macos":   "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1/KoreKiller_MAC.zip"
       },
       "executable": {
         "windows": "KoreKiller.exe",
