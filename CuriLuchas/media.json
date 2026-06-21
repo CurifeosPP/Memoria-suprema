@@ -5,13 +5,4 @@
     "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/screenshots/shot2.png",
     "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/screenshots/shot3.png"
   ],
-  "changelog": [
-    {
-      "version": "1.0",
-      "date": "2026-05-14",
-      "image": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/screenshots/shot3.png",
-      "use_last_image": false,
-      "notes": "- Lanzamiento inicial del SwordLauncher junto a la version mas reciente del curiluchas, oh boi, esto ya esta empezando :D"
-    }
-  ]
-}
+  "changelog": []
