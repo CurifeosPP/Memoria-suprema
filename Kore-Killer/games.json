@@ -1,9 +1,9 @@
 {
   "id": "KoreKiller",
-  "appdata_name": "KoreKiller",
+  "appdata_name": "Kore-killer",
   "achievements": {
-    "encrypt_key": "KoreKillerKey2026SecretXD!!!!!!",
-    "salt": "KoreKillerSalt_v1"
+    "encrypt_key": "kore-killerSecretKey2026XD!!!!!!!!!!!",
+    "salt": "Kore-killerSalt_v1"
   },
   "versions": [
     {
