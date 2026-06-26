@@ -1,9 +1,9 @@
 {
   "games": [
     {
-      "id": "TestGame",
-      "game_name": "TestGame",
-      "title": "Test Game",
+      "id": "TestGame2",
+      "game_name": "TestGame2",
+      "title": "Test Game 2",
       "description": "test",
       "developer": "",
       "status": "active",
