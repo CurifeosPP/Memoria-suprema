@@ -8,28 +8,21 @@
     "version": "v1.3",
     "os": "Ninguno",
     "date": "2026-05-03",
-    "resolved_at": "2026-06-26T01:04:36.228892+00:00"
-  },
-  {
-    "id": "#0002",
-    "game_id": "curiluchas",
-    "title": "🛑 Bug Report — CuriLuchas",
-    "desc": "Error a la hora de saltar la cinematica",
-    "status": "resolved",
-    "version": "v1.0",
-    "os": "Ninguno",
-    "date": "2026-05-14",
-    "resolved_at": "2026-06-26T01:04:37.452579+00:00"
+    "resolved_at": "2026-06-26T01:04:36.228892+00:00",
+    "discord_message_id": "1500577564257816851",
+    "original_desc": "No me deja saltar la cinematica"
   },
   {
     "id": "#0003",
     "game_id": "curiluchas",
     "title": "🛑 Bug Report — CuriLuchas",
-    "desc": "qn sabe :v",
-    "status": "open",
+    "desc": "Error no deja saltar la cinematica",
+    "status": "resolved",
     "version": "v1.0",
     "os": "Ninguno",
     "date": "2026-05-14",
-    "resolved_at": ""
+    "resolved_at": "2026-06-26T03:56:57.477562+00:00",
+    "discord_message_id": "1504360476396490773",
+    "original_desc": "qn sabe :v"
   }
 ]
