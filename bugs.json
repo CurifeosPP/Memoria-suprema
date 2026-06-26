@@ -4,21 +4,21 @@
     "game_id": "curiluchas",
     "title": "🛑 Bug Report — CuriLuchas",
     "desc": "No me deja saltar la cinematica",
-    "status": "open",
+    "status": "resolved",
     "version": "v1.3",
     "os": "Ninguno",
     "date": "2026-05-03",
-    "resolved_at": ""
+    "resolved_at": "2026-06-26T01:04:36.228892+00:00"
   },
   {
     "id": "#0002",
     "game_id": "curiluchas",
     "title": "🛑 Bug Report — CuriLuchas",
-    "desc": "qn sabe :v",
-    "status": "open",
+    "desc": "Error a la hora de saltar la cinematica",
+    "status": "resolved",
     "version": "v1.0",
     "os": "Ninguno",
     "date": "2026-05-14",
-    "resolved_at": ""
+    "resolved_at": "2026-06-26T01:04:37.452579+00:00"
   }
 ]
