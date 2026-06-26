@@ -20,5 +20,16 @@
     "os": "Ninguno",
     "date": "2026-05-14",
     "resolved_at": "2026-06-26T01:04:37.452579+00:00"
+  },
+  {
+    "id": "#0003",
+    "game_id": "curiluchas",
+    "title": "🛑 Bug Report — CuriLuchas",
+    "desc": "qn sabe :v",
+    "status": "open",
+    "version": "v1.0",
+    "os": "Ninguno",
+    "date": "2026-05-14",
+    "resolved_at": ""
   }
 ]
