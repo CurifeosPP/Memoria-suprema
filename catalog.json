@@ -1,3 +1,48 @@
 {
-  "games": []
+  "games": [
+    {
+      "id": "CuriLuchas",
+      "title": "CuriLuchas",
+      "game_name": "CuriLuchas",
+      "developer": "CurifeosPP",
+      "description": "El juego que desarrollare despues y da la casualidad que le hice un prototipo.",
+      "status": "prototype",
+      "prototype_warning": "Hey, esto es un prototipo, no es el juego completo, es posible que estas versiones se eliminen cuando salga el juego completo, mientras tanto, disfruta!.",
+      "game_json_url":  "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/games.json",
+      "media_json_url": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/media.json",
+      "logo":       "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/main/CuriLuchas/logo.png",
+      "background": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/background.jpeg",
+      "music":      "https://github.com/CurifeosPP/Memoria-suprema/raw/refs/heads/main/CuriLuchas/music.mp3",
+      "requirements": {
+        "os":      "Windows 10 / Linux",
+        "cpu":     "Cualquiera",
+        "ram":     "1 GB",
+        "gpu":     "Integrada",
+        "storage": "100 MB",
+        "directx": "DirectX 11"
+      }
+    },
+    {
+      "id": "KoreKiller",
+      "title": "Kore-Killer",
+      "game_name": "KoreKiller",
+      "developer": "CurifeosPP",
+      "description": "Este juego es el que estoy desarrollando ahora! asi que espera muchos cambios para este",
+      "status": "prototype",
+      "prototype_warning": "Hey, esto es un prototipo, no es el juego completo, es posible que estas versiones se eliminen cuando salga el juego completo, mientras tanto, disfruta!.",
+      "game_json_url":  "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/Kore-Killer/games.json",
+      "media_json_url": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/Kore-Killer/media.json",
+      "logo":       "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/main/Kore-Killer/logo.png",
+      "background": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/Kore-Killer/Background.png",
+      "music":      "",
+      "requirements": {
+        "os":      "Windows 10 / Linux / macOS",
+        "cpu":     "Cualquiera",
+        "ram":     "1 GB",
+        "gpu":     "Integrada",
+        "storage": "200 MB",
+        "directx": "Vulkan (creo XDDD)"
+      }
+    }
+  ]
 }
