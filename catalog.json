@@ -1,30 +1,3 @@
 {
-  "games": [
-    {
-      "id": "TestGame2",
-      "game_name": "TestGame2",
-      "title": "Test Game 2",
-      "description": "test",
-      "developer": "",
-      "status": "active",
-      "release_date": "2026-06-26",
-      "version": "1.0",
-      "size_gb": 0.1,
-      "logo": "",
-      "background": "",
-      "music": "",
-      "media_json_url": "",
-      "download_urls": {
-        "windows": "",
-        "linux": "",
-        "macos": ""
-      },
-      "executable": {
-        "windows": "",
-        "linux": "",
-        "macos": ""
-      },
-      "versions": []
-    }
-  ]
+  "games": []
 }
