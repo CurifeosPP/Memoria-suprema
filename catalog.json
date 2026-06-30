@@ -8,18 +8,40 @@
       "description": "El juego que desarrollare despues y da la casualidad que le hice un prototipo.",
       "status": "prototype",
       "prototype_warning": "Hey, esto es un prototipo, no es el juego completo, es posible que estas versiones se eliminen cuando salga el juego completo, mientras tanto, disfruta!.",
-      "game_json_url":  "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/games.json",
+      "game_json_url": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/games.json",
       "media_json_url": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/media.json",
-      "logo":       "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/main/CuriLuchas/logo.png",
+      "logo": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/main/CuriLuchas/logo.png",
       "background": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/CuriLuchas/background.jpeg",
-      "music":      "https://github.com/CurifeosPP/Memoria-suprema/raw/refs/heads/main/CuriLuchas/music.mp3",
+      "music": "https://github.com/CurifeosPP/Memoria-suprema/raw/refs/heads/main/CuriLuchas/music.mp3",
       "requirements": {
-        "os":      "Windows 10 / Linux",
-        "cpu":     "Cualquiera",
-        "ram":     "1 GB",
-        "gpu":     "Integrada",
+        "os": "Windows 10 / Linux",
+        "cpu": "Cualquiera",
+        "ram": "1 GB",
+        "gpu": "Integrada",
         "storage": "100 MB",
         "directx": "DirectX 11"
+      },
+      "versions": [
+        {
+          "label": "1.0 - Prototipo",
+          "version": "1.0",
+          "size_gb": 0.1,
+          "download_urls": {
+            "windows": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0/Curi-luchas_Windows.zip",
+            "linux": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0/CuriLuchas_Linux.zip",
+            "macos": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.0/Curi-luchas_MAC.zip"
+          },
+          "executable": {
+            "windows": "Curi-luchas_Windows.exe",
+            "linux": "CuriLuchas_linux",
+            "macos": "Curi-Luchas_MAC"
+          }
+        }
+      ],
+      "appdata_name": "CuriLuchas",
+      "achievements": {
+        "encrypt_key": "CuriLuchasKey2026SecretXD!!!!!!",
+        "salt": "CuriLuchasSalt_v1"
       }
     },
     {
@@ -30,18 +52,40 @@
       "description": "Este juego es el que estoy desarrollando ahora! asi que espera muchos cambios para este",
       "status": "prototype",
       "prototype_warning": "Hey, esto es un prototipo, no es el juego completo, es posible que estas versiones se eliminen cuando salga el juego completo, mientras tanto, disfruta!.",
-      "game_json_url":  "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/Kore-Killer/games.json",
+      "game_json_url": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/Kore-Killer/games.json",
       "media_json_url": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/Kore-Killer/media.json",
-      "logo":       "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/main/Kore-Killer/logo.png",
+      "logo": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/main/Kore-Killer/logo.png",
       "background": "https://raw.githubusercontent.com/CurifeosPP/Memoria-suprema/refs/heads/main/Kore-Killer/Background.png",
-      "music":      "",
+      "music": "",
       "requirements": {
-        "os":      "Windows 10 / Linux / macOS",
-        "cpu":     "Cualquiera",
-        "ram":     "1 GB",
-        "gpu":     "Integrada",
+        "os": "Windows 10 / Linux / macOS",
+        "cpu": "Cualquiera",
+        "ram": "1 GB",
+        "gpu": "Integrada",
         "storage": "200 MB",
         "directx": "Vulkan (creo XDDD)"
+      },
+      "versions": [
+        {
+          "label": "1.0 - Prototipo",
+          "version": "1",
+          "size_gb": 0.1,
+          "download_urls": {
+            "windows": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1/KoreKiller_Windows.zip",
+            "linux": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1/KoreKiller_Linux.zip",
+            "macos": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1/KoreKiller_MAC.zip"
+          },
+          "executable": {
+            "windows": "KoreKiller.exe",
+            "linux": "KoreKiller.x86_64",
+            "macos": "KoreKiller"
+          }
+        }
+      ],
+      "appdata_name": "Kore-killer",
+      "achievements": {
+        "encrypt_key": "kore-killerSecretKey2026XD!!!!!!!!!!!",
+        "salt": "Kore-killerSalt_v1"
       }
     }
   ]
