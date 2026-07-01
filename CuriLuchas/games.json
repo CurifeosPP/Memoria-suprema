@@ -20,6 +20,21 @@
         "linux": "CuriLuchas_linux",
         "macos": "Curi-Luchas_MAC"
       }
+    },
+    {
+      "label": "1.1 - Hotfix",
+      "version": "1.1",
+      "size_gb": 0.1,
+      "download_urls": {
+        "windows": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.1/Curi-luchas_Windows.zip",
+        "linux": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.1/CuriLuchas_Linux.zip",
+        "macos": "https://github.com/CurifeosPP/Memoria-suprema/releases/download/1.1/Curi-luchas_MAC.zip"
+      },
+      "executable": {
+        "windows": "Curi-luchas_Windows.zip",
+        "linux": "CuriLuchas_Linux.zip",
+        "macos": "Curi-luchas_MAC.zip"
+      }
     }
   ]
 }
