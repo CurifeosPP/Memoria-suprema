@@ -17,11 +17,11 @@
     "game_id": "curiluchas",
     "title": "🛑 Bug Report — CuriLuchas",
     "desc": "Error no deja saltar la cinematica",
-    "status": "open",
+    "status": "resolved",
     "version": "v1.0",
     "os": "Ninguno",
     "date": "2026-05-14",
-    "resolved_at": "",
+    "resolved_at": "2026-07-01T04:00:47.080522+00:00",
     "discord_message_id": "1504360476396490773",
     "original_desc": "qn sabe :v"
   }
